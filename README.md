@@ -1,6 +1,8 @@
 # Fit Rush
 
-![image](https://github.com/val2021-svg/Fit-Rush/assets/95656628/40dfa99a-60c6-491c-a7df-44c3bac07de7)
+<p align="center">
+<img src="https://github.com/val2021-svg/Fit-Rush/assets/95656628/40dfa99a-60c6-491c-a7df-44c3bac07de7" />
+</p>
 
 ## Introduction
 
